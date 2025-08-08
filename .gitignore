@@ -1,0 +1,8 @@
+nextcloud/
+nextcloud_data/
+letsencrypt/
+.env
+*.crt
+*.key
+*.pem
+
