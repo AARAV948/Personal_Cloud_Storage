@@ -1,4 +1,4 @@
-nextcloud/
+
 nextcloud_data/
 letsencrypt/
 .env
