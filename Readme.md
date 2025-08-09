@@ -1,6 +1,6 @@
-# Personal Nextcloud with Docker
+# Personal_Cloud_Storage using Nextcloud and Docker
 
-This is a self-hosted Nextcloud setup using Docker on a Linux server, configured without a domain.
+This is a self-hosted Cloud Storage Platform using Nextcloud setup and Docker on a Linux server, configured without a domain.
 
 ## Contents
 
